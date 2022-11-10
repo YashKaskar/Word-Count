@@ -12,6 +12,7 @@
 
 h1{ 
     font-size: 49px;
+    color: #F1A661;
 }
 
 textarea {  
@@ -23,6 +24,7 @@ textarea {
     padding: 29px;
     box-sizing: border-box;
     font-family: 'Noto Sans', sans-serif;
+    color: #876445;
 }
 
 .count-btn {    
