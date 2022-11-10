@@ -24,3 +24,14 @@ textarea {
     box-sizing: border-box;
     font-family: 'Noto Sans', sans-serif;
 }
+
+.count-btn {    
+    margin-top: 2rem;
+    font-size: 29px;
+    border-radius: 9px;
+}
+
+.word-count{    
+    margin-top: 2rem;
+    font-size: 29px;
+}
